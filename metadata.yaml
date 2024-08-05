@@ -1,0 +1,49 @@
+_repo: Honeymoon-in-bedlam_74019
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Campo, Henry del
+    alias: Del Campo, Henry
+    birthdate: 1899
+    deathdate: 1961
+    gutenberg_agent_id: '57306'
+    url: http://www.gutenberg.org/2009/agents/57306
+creator:
+  author:
+    agent_name: Bond, Nelson S.
+    aliases:
+    - Bond, Nelson Slade
+    - Bond, Nelson
+    - Danzell, George
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '34095'
+    url: http://www.gutenberg.org/2009/agents/34095
+    wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
+description: 'Though Lancelot Biggs is not named in this story, it was adapted for
+  inclusion in the book "Lancelot Biggs : spaceman."'
+gutenberg_issued: '2024-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74019'
+language: en
+pgterms:marc905: 20240520094050bond
+pgterms:marc906: '1940'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bWeird Tales, $c1940.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Lancelot Biggs, 7
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Honeymoons -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Honeymoon in bedlam
+url: http://www.gutenberg.org/ebooks/74019
